@@ -1,0 +1,16 @@
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\bin\Debug\net5.0\AtvMesSC.exe
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\bin\Debug\net5.0\AtvMesSC.deps.json
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\bin\Debug\net5.0\AtvMesSC.runtimeconfig.json
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\bin\Debug\net5.0\AtvMesSC.runtimeconfig.dev.json
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\bin\Debug\net5.0\AtvMesSC.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\bin\Debug\net5.0\ref\AtvMesSC.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\bin\Debug\net5.0\AtvMesSC.pdb
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\obj\Debug\net5.0\AtvMesSC.csproj.AssemblyReference.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\obj\Debug\net5.0\AtvMesSC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\obj\Debug\net5.0\AtvMesSC.AssemblyInfoInputs.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\obj\Debug\net5.0\AtvMesSC.AssemblyInfo.cs
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\obj\Debug\net5.0\AtvMesSC.csproj.CoreCompileInputs.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\obj\Debug\net5.0\AtvMesSC.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\obj\Debug\net5.0\ref\AtvMesSC.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\obj\Debug\net5.0\AtvMesSC.pdb
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaSwitchCase\AtvMesSC\obj\Debug\net5.0\AtvMesSC.genruntimeconfig.cache
